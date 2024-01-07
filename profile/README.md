@@ -10,9 +10,9 @@
 
 <div align="center">
 	<h1>Student Scoop</h1>
-	<a href="#">Official Website</a>
+	<a href="https://studentscoop.io">Official Website</a>
 	・
-    <a href="#">Contact Us</a>
+    <a href="mailto:contact@studentscoop.io">Contact Us</a>
 	・
 	<a href="#">Support Us</a>
 </div>
