@@ -4,7 +4,7 @@
 
 <div align="center">
 	<a href="https://github.com/Student-Scoop">
-  		<img src="https://raw.githubusercontent.com/Student-Scoop/.github/main/assets/logo-light.png" alt="Logo" width="95" height="95" />
+  		<img src="https://raw.githubusercontent.com/Student-Scoop/.github/main/assets/logo.png" alt="Logo" width="95" height="95" />
 	</a>
 </div>
 
